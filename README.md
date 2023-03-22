@@ -23,15 +23,15 @@ Algorithms implemented for recommendations:
 
 > Item-Item based recommendations when a user rated Toy Story as 4 out of 5
 
-![Recomm-2](https://github.com/am791/Movie-Recommendation-System/blob/main/Scrrenshots/recomm_1.PNG)
+![Recomm-2](https://github.com/am791/Movie-Recommendation-System/blob/main/Scrrenshots/recomm_2.PNG)
 
 > Item-Item based recommendation for the User with mentioned User History
 
-![Recomm-3](https://github.com/am791/Movie-Recommendation-System/blob/main/Scrrenshots/recomm_1.PNG)
+![Recomm-3](https://github.com/am791/Movie-Recommendation-System/blob/main/Scrrenshots/recomm_3.PNG)
 
 > Popularity based Recommendation
 
-![Recomm-4](https://github.com/am791/Movie-Recommendation-System/blob/main/Scrrenshots/recomm_1.PNG)
+![Recomm-4](https://github.com/am791/Movie-Recommendation-System/blob/main/Scrrenshots/recomm_4.PNG)
 
 
 ### Feel free to drop your feedback/inputs. Always welcome.
